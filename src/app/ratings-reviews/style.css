@@ -1,0 +1,32 @@
+/* Styling headings */
+h1 {
+    font-size: 24px;
+    color: #333;
+    /* Add any other styles you want for headings */
+  }
+  
+  /* Styling paragraphs */
+  p {
+    font-size: 16px;
+    color: #666;
+    /* Add any other styles you want for paragraphs */
+  }
+  
+  /* Styling strong tags */
+  strong {
+    font-weight: bold;
+    /* Add any other styles you want for strong tags */
+  }
+  
+  /* Styling router links */
+  a {
+    color: blue; /* Change link color */
+    text-decoration: underline; /* Add underline */
+  }
+  
+  /* Styling router links when hovered */
+  a:hover {
+    color: red; /* Change link color on hover */
+    text-decoration: none; /* Remove underline on hover */
+  }
+  
